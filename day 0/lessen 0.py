@@ -52,7 +52,7 @@ forward(200)
 end_fill()
 #end of roof
 
-#frawing a window
+#drawing a window
 color("yellow")
 begin_fill()
 left(30)
