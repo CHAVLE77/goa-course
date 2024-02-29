@@ -14,3 +14,8 @@ while i<=5:
     result=result + i
     i=i+1
     print(result)
+
+name="nika"
+
+for i in name:
+ print(i)
